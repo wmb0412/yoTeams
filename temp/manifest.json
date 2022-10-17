@@ -6,9 +6,9 @@
   "packageName": "guandata-teams",
   "developer": {
     "name": "wangmingbao",
-    "websiteUrl": "https://98cf-122-233-93-122.ap.ngrok.io",
-    "privacyUrl": "https://98cf-122-233-93-122.ap.ngrok.io/privacy.html",
-    "termsOfUseUrl": "https://98cf-122-233-93-122.ap.ngrok.io/tou.html"
+    "websiteUrl": "https://magenta-melba-277dbe.netlify.app",
+    "privacyUrl": "https://magenta-melba-277dbe.netlify.app/privacy.html",
+    "termsOfUseUrl": "https://magenta-melba-277dbe.netlify.app/tou.html"
   },
   "name": {
     "short": "yoTeams",
@@ -25,7 +25,7 @@
   "accentColor": "#D85028",
   "configurableTabs": [
     {
-      "configurationUrl": "https://98cf-122-233-93-122.ap.ngrok.io/yoTeamsTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
+      "configurationUrl": "https://magenta-melba-277dbe.netlify.app/yoTeamsTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
       "canUpdateConfiguration": true,
       "scopes": [
         "team"
@@ -41,7 +41,7 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "98cf-122-233-93-122.ap.ngrok.io",
+    "magenta-melba-277dbe.netlify.app",
     "app.mayidata.com"
   ],
   "showLoadingIndicator": false
