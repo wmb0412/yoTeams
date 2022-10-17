@@ -18,7 +18,7 @@ export const YoTeamsTabConfig = () => {
         pages.config.setConfig({
             contentUrl: host + "/yoTeamsTab/?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
             websiteUrl: host + "/yoTeamsTab/?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
-            suggestedDisplayName: "gd",
+            suggestedDisplayName: "观远-移动端",
             removeUrl: host + "/yoTeamsTab/remove.html?theme={theme}",
             entityId: entityId.current
         }).then(()=> {
