@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "wangmingbao"
+    },
+    "libraryName": "yoTeams",
+    "generator-version": "4.0.1-preview.1"
+  }
+}

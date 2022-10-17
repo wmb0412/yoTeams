@@ -1,0 +1,48 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.13/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.13",
+  "id": "3f2e72c0-4dc8-11ed-bee3-750de5314f93",
+  "version": "0.0.1",
+  "packageName": "yoteams",
+  "developer": {
+    "name": "wangmingbao",
+    "websiteUrl": "https://98cf-122-233-93-122.ap.ngrok.io",
+    "privacyUrl": "https://98cf-122-233-93-122.ap.ngrok.io/privacy.html",
+    "termsOfUseUrl": "https://98cf-122-233-93-122.ap.ngrok.io/tou.html"
+  },
+  "name": {
+    "short": "yoTeams",
+    "full": "yoTeams"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [
+    {
+      "configurationUrl": "https://98cf-122-233-93-122.ap.ngrok.io/yoTeamsTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
+      "canUpdateConfiguration": true,
+      "scopes": [
+        "team"
+      ]
+    }
+  ],
+  "staticTabs": [],
+  "bots": [],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "98cf-122-233-93-122.ap.ngrok.io",
+    "app.mayidata.com"
+  ],
+  "showLoadingIndicator": false
+}
