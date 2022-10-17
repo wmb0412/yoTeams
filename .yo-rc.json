@@ -1,9 +1,9 @@
 {
   "generator-teams": {
     "promptValues": {
-      "developer": "wangmingbao"
+      "developer": "guandata"
     },
-    "libraryName": "yoTeams",
+    "libraryName": "guandata-teams",
     "generator-version": "4.0.1-preview.1"
   }
 }
